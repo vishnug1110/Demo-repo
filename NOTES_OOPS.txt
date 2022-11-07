@@ -1,0 +1,11 @@
+administer> manager in the supermarket...manager work is to keep the customers happy.
+
+Backend development:
+
+ex: when we click on payment and pay the amount for an item in amazon, then a message is sent to a server which is a computer in amazon office...
+    A computer which recieves messages via web when a client performs an action on the web is called the server.
+   But computers can recieve messages from the internet by default. we have to program them to be able to recieve messages.
+  To do that we need backend programming language like JAVA,NodeJS. However using backend programming language by default is very difficult as it requires huge amount of code.
+  So there are two tools to help with this 
+  1. backend framework(JAVA SPRING )
+  2. pakage manager.(using code that other people have written for common tasks like doing calculations, talking to a database and setting up user login  )
